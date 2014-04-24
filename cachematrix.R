@@ -1,7 +1,7 @@
 ## Function to get/set a matrix and its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
-    ## place holder for returned value
+    ## place holder for the value of inverse
     inv <- NULL
     
     ## function to set the matrix value to passed matrix and its inverse to null
